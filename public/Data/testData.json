@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Spot",
+      "artist": "Constance Smith",
+      "duration": 300,
+      "album": "This German Shepherd is having some back pain"
+    },
+    {
+      "title": "Goldie",
+      "artist": "Barot Bellingham",
+      "duration": 300,
+      "album": "This Goldfish has some weird spots in the belly"
+    },
+    {
+      "title": "Mitten",
+      "artist": "Hillary Goldwyn",
+      "duration": 300,
+      "album": "Cat has excessive hairballs"
+    },
+    {
+      "title": "Buffy",
+      "artist": "Hassum Harrod",
+      "duration": 300,
+      "album": "This Chihuahua has not eaten for three days and is lethargic"
+    }
+]
